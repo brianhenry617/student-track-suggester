@@ -10,7 +10,9 @@ _This is a website that suggests a programing language to learn based on a serie
 
 ## Setup/Installation Requirements
 
-* _Click on the link or clone it and open it locally to a browser_
+* _Clone to desktop_
+* _Click on index.html_
+* _Click on links in browser to navigate_
 
 
 ## Known Bugs
