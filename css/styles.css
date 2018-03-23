@@ -1,0 +1,19 @@
+body{
+  background-color: green;
+  color: blue;
+  height: 50px;
+}
+
+h1{
+  text-align: center;
+  height: 30px;
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  text-align: left;
+  text-decoration: underline;
+}
