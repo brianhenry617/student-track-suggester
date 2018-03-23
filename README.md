@@ -17,7 +17,7 @@ _This is a website that suggests a programing language to learn based on a serie
 
 ## Known Bugs
 
-_No known bugs_
+_Pop up Message not working properly_
 
 ## Support and contact details
 
