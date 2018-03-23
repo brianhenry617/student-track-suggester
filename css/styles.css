@@ -7,6 +7,9 @@ body{
 h1{
   text-align: center;
   height: 30px;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 h2{
@@ -16,4 +19,5 @@ h2{
 p{
   text-align: left;
   text-decoration: underline;
+  font-weight: bold;
 }
